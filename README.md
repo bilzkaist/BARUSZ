@@ -1,2 +1,2 @@
 # BARUSZ
-BARUSZ: Blockchain based Authentication and Registration using Spatial computing and Zero knowledge proof
+BARUSZ: Blockchain based Authentication and Registration Using Spatial computing and Zero knowledge proof
