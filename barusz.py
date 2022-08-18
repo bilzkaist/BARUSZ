@@ -91,7 +91,19 @@ class Barusz:
         print("\nSecret User Key : ",self.secretUserKey)
         print("\nSecret Card Key : ",self.secretCardKey)
         
-        
+    def prover(self, challenge):
+        signature = EcdsaLoc.sign(message, privateKey)
+        response = signature
+        return response    
+    
+    def verify(self, response, signature):
+        if (EcdsaLoc.verify(response, signature, publicKey)):
+            flag = True
+            print(flag)
+        else:
+            flag = False
+            print(flag)
+        return flag
         
 
 def runbarusz():
