@@ -1,5 +1,5 @@
 # Project Name : BARUSZ
-BARUSZ: Blockchain based Authentication and Registration Using Spatial computing and Zero knowledge proof
+BARUSZ: Blockchain smartcontracts Ananomely detection and Research Using Smartcontracts and Zero-knowledge.
 
 # Research Name : Revolutionizing Smart Contract Security: Deep Learning Techniques for Vulnerability Detection and Classification
 ## Background:
